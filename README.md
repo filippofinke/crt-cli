@@ -56,7 +56,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-WordGPT is released under the MIT License. See the LICENSE file for more details.
+crt-cli is released under the MIT License. See the LICENSE file for more details.
 
 ## Author
 
